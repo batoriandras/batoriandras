@@ -42,7 +42,7 @@ Microsoft Entra ID · MSAL · Microsoft Graph · OAuth · Email integration
 
 | Project | Stack | Description & My Role |
 | --- | --- | --- |
-| 🎟️ [Seatify](https://github.com/bprof-spec-codes/seatify) | Angular · ASP.NET Core · EF Core · SQL Server | **Event and seat-booking platform.** University team project with an **Architect** role. My work includes backend and frontend development for the seat-layout editor, covering seating matrices, sectors, and seat configuration. |
+| 🎟️ [Seatify](https://github.com/bprof-spec-codes/seatify) | Angular · ASP.NET Core · EF Core · SQL Server | **Event and seat-booking platform.** University team project with an **Architect** role. My work includes designing the overall system architecture, handling DevOps tasks and application deployment to an Ubuntu Linux server, plus backend and frontend development for the whole project. |
 | 📚 [EduShare](https://github.com/bprof-spec-codes/edushare) | Angular · ASP.NET Core · EF Core · SQL Server | **Educational material-sharing platform** with uploads, search and filtering, PDF previews, ratings, and comments. Contributed as a **Frontend Developer** in a Scrum team, building Angular components and integrating backend APIs. |
 
 Both projects were developed in university teams using Scrum, with GitHub-based collaboration and task tracking.

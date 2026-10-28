@@ -49,9 +49,9 @@ Both projects were developed in university teams using Scrum, with GitHub-based 
 
 ## Professional Experience
 
-### PHOENIX Pharma Zrt. — Software Development Intern
+### PHOENIX Pharma Zrt. - Software Development Intern
 
-**November 2025 – Present**
+**November 2025 - Present**
 
 Developing an internal **desk-booking and absence-management application** in a two-person team using **C# / .NET, Angular, PostgreSQL, and Entity Framework Core**.
 
@@ -64,7 +64,7 @@ Developing an internal **desk-booking and absence-management application** in a 
 
 ## Education
 
-### Óbuda University — John von Neumann Faculty of Informatics
+### Óbuda University - John von Neumann Faculty of Informatics
 
 **Computer Science Engineering (BProf)** · 2023 – Expected graduation: January 2027
 
@@ -77,5 +77,5 @@ University team projects with experience as both a frontend developer and a proj
 ## Languages
 
 - **Hungarian:** Native
-- **English:** B2 — confident spoken communication and regular use in international settings
+- **English:** B2 - confident spoken communication and regular use in international settings
 
